@@ -25,4 +25,4 @@ This is a Hugo static site blog using the PaperMod theme (added as a git submodu
 - `content/about.md` - About page
 - `archetypes/default.md` - Template for new content
 
-**Deployment:** GitHub Actions workflow (`.github/workflows/hugo.yml`) builds and deploys to GitHub Pages on push to master.
+**Deployment:** GitHub Actions workflow (`.github/workflows/hugo.yml`) builds and deploys to GitHub Pages on push to `main`.
