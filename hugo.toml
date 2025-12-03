@@ -1,0 +1,32 @@
+baseURL = 'https://alexchambers.github.io/'
+languageCode = 'en-us'
+title = 'Alex Chambers'
+theme = 'PaperMod'
+
+[params]
+  author = 'Alex Chambers'
+  description = 'Personal blog'
+  defaultTheme = 'auto'
+  ShowReadingTime = true
+  ShowPostNavLinks = true
+  ShowBreadCrumbs = true
+  ShowCodeCopyButtons = true
+
+  [params.homeInfoParams]
+    Title = "Hi, I'm Alex"
+    Content = "Welcome to my blog"
+
+[menu]
+  [[menu.main]]
+    identifier = 'posts'
+    name = 'Posts'
+    url = '/posts/'
+    weight = 10
+  [[menu.main]]
+    identifier = 'about'
+    name = 'About'
+    url = '/about/'
+    weight = 20
+
+[outputs]
+  home = ['HTML', 'RSS', 'JSON']
