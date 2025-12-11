@@ -8,3 +8,6 @@
 # OS files
 .DS_Store
 Thumbs.db
+
+# Local Claude preferences (not committed)
+CLAUDE.local.md
