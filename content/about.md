@@ -2,7 +2,7 @@
 title: "About"
 ---
 
-I'm Alex Chambers, Chief Technology Officer at [Cliffhanger Solutions](https://cliffhangersolutions.com). I lead software infrastructure and web engineering, and we recently expanded to Madrid.
+I'm Alex Chambers, Chief Technology Officer at [Cliffhanger Solutions](https://cliffhanger-solutions.com). I lead software infrastructure and web engineering, and we recently expanded to Madrid.
 
 My journey at Cliffhanger started in 2018 as a Software Engineer, building RESTful APIs with Node.js, Express, and TypeScript, and implementing enterprise SSO solutions. I left for a stint at Tanium, where I worked on Risk and Benchmark products in Go, before returning to Cliffhanger as CTO in 2024.
 
