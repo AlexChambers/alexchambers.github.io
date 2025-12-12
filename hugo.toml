@@ -6,6 +6,11 @@ theme = 'PaperMod'
 [params]
   author = 'Alex Chambers'
   description = 'Personal blog'
+
+  [params.assets]
+    favicon = "favicon.svg"
+    favicon16x16 = "favicon.svg"
+    favicon32x32 = "favicon.svg"
   defaultTheme = 'auto'
   ShowReadingTime = true
   ShowPostNavLinks = true
