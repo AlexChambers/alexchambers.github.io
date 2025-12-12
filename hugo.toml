@@ -18,8 +18,8 @@ theme = 'PaperMod'
   ShowCodeCopyButtons = true
 
   [params.homeInfoParams]
-    Title = "Hi, I'm Alex"
-    Content = "Welcome to my blog"
+    Title = "Alex Chambers"
+    Content = "Building software. Learning out loud."
 
 [menu]
   [[menu.main]]
